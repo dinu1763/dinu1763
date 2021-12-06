@@ -7,7 +7,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Graduated in Computer Science & Engineering at BMS Institute of Technology and Management
+- 🎓 &nbsp; Graduated in Computer Science & Engineering from BMS Institute of Technology and Management
 - 🔭 I have worked on Python - Django as Backend Web Developer.
 - 🌱 I’m currently learning Full-Stack Web Development (MERN Technology).
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
