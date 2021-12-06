@@ -45,7 +45,7 @@
   <p  align="center">
 
   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
   &nbsp;
@@ -55,12 +55,17 @@
  <p  align="center">
 
   
-<img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" height="25">
+<img src="https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png" height="25">
   &nbsp;
 
 <img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" height="25">
 &nbsp;
   
+  <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/reactlogo_4.png?itok=LXFHZrKJ" height="25">
+&nbsp;
+  
+
+
   <img src="https://cdn.artandlogic.com/wp-content/uploads/django.jpeg" height="25">
 &nbsp;
   
