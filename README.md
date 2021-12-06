@@ -78,7 +78,7 @@
 &nbsp;
     <img src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" height="25">
 &nbsp;
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+    <img src="https://cdn.imgbin.com/13/12/3/imgbin-python-others-RykhYKme1Mhx70LhknNWWVfdp.jpg" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 &nbsp;
