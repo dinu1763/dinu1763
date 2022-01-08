@@ -1,8 +1,8 @@
 
 
 
-<h1>Hello, I'm Dinesh Kumar 🙋‍♂️.</h1>
-<h2>💻👨‍💻Full Stack Web Developer</h2>
+<h1 align="center">Hello, I'm Dinesh Kumar 🙋‍♂️.</h1>
+<h2 align="center">💻👨‍💻Full Stack Web Developer</h2>
 
 ### 💻 &nbsp;About Me 
 
