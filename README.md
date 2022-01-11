@@ -6,24 +6,15 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Graduated in Computer Science & Engineering from BMS Institute of Technology and Management
-- 🔭 I have worked on Python - Django as Backend Web Developer.
-- 🌱 I’m currently learning Full-Stack Web Development (MERN Technology).
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Backend Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:
+Dedicated and efficient full stack web developer with 1 Year of experience in
+Python and Django. Certified in both Frontend and Backend technologies.
+Spearheaded successful transition from LAMP stack to MERN stack with a
+willingness to learn and master the latest technologies.
+<br>
+<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763)  
 
 <br>
-
-
-
-
-
 
 ### 💻 Stack I Work With
 
