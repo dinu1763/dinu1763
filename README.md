@@ -13,8 +13,9 @@ willingness to learn and master the latest technologies.
 <br>
 <br>
 #### 📄 [Resume](https://drive.google.com/file/d/1VXzhDtQPHKMKQxTLrm260ca_ozcaIYbu/view)
-![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763)  
-
+![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763) 
+<br>
+### 💻 [My Portfolio](http://dinesh-kumar.info/) 
 <br>
 
 ### 💻 Stack I Work With
@@ -85,6 +86,8 @@ willingness to learn and master the latest technologies.
 ### [Snapdeal Clone](https://snapdeal-clone.netlify.app/)
 
 ### [UpGrad Clone](https://gurdeep7.github.io/upgrad/html/index.html)
+
+### [IKEA Clone](https://ikea-clone-omega.vercel.app/)
 
 <br>
 
