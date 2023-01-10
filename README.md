@@ -11,7 +11,7 @@ Spearheaded successful transition from LAMP stack to MERN stack with a
 willingness to learn and master the latest technologies.
 <br>
 <br>
-#### 📄 [Resume]([https://drive.google.com/file/d/1VXzhDtQPHKMKQxTLrm260ca_ozcaIYbu/view](https://drive.google.com/file/d/1skT-pVeC_qCc7op3mtNpk8cFUZXdeOcT/view?usp=share_link))
+#### 📄 [Resume](https://drive.google.com/file/d/1skT-pVeC_qCc7op3mtNpk8cFUZXdeOcT/view)
 ![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763) 
 <br>
 ### 💻 [My Portfolio](http://dinesh-kumar.info/) 
