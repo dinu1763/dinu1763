@@ -6,8 +6,7 @@
 
 ### 💻 &nbsp;About Me 
 
-Dedicated and efficient full stack web developer with more than 1 Year of experience in
-Python and Django. Certified in both Frontend and Backend technologies.
+Dedicated and efficient frontend web developer with 2 Years of experience. Certified in both Frontend and Backend technologies.
 Spearheaded successful transition from LAMP stack to MERN stack with a
 willingness to learn and master the latest technologies.
 <br>
