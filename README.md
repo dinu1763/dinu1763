@@ -6,12 +6,12 @@
 
 ### 💻 &nbsp;About Me 
 
-Dedicated and efficient frontend web developer with 2 Years of experience. Certified in both Frontend and Backend technologies.
-Spearheaded successful transition from LAMP stack to MERN stack with a
-willingness to learn and master the latest technologies.
+Quality Assurance and Automation Engineer having experience and expertise in various levels of Quality
+Assurance executing automated testing frameworks. Proficient in leveraging industry-leading tools and
+technologies to streamline testing processes and ensure the quality and reliability of software products.
 <br>
 <br>
-#### 📄 [Resume](https://drive.google.com/file/d/1skT-pVeC_qCc7op3mtNpk8cFUZXdeOcT/view)
+#### 📄 [Resume](https://drive.google.com/file/d/1phGKPsVz5oHTzCnj7XcWgxUrt0Xoj2tM/view?usp=drive_link)
 ![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763) 
 <br>
 ### 💻 [My Portfolio](http://dinesh-kumar.info/) 
