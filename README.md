@@ -2,20 +2,11 @@
 
 
 <h1 align="center">Hello, I'm Dinesh Kumar 🙋‍♂️.</h1>
-<h2 align="center">💻👨‍💻Software Engineer</h2>
 
-### 💻 &nbsp;About Me 
-
-Software Engineer
 <br>
-<br>
-#### 📄 [Resume](https://drive.google.com/file/d/1phGKPsVz5oHTzCnj7XcWgxUrt0Xoj2M/view?usp=drive_link)
-![](https://visitor-badge.glitch.me/badge?page_id=dinu1763.dinu1763) 
-<br>
-### 💻 [My Portfolio](http://dinesh-kumar.info/) 
 <br>
 
-### 💻 Stack I Work With
+### 💻 Stack I Know
 
 <br>
 
@@ -35,10 +26,7 @@ Software Engineer
 
   
 <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" height="25"/>  
+  &nbsp; 
  </p>
  
  <p  align="center">
@@ -77,28 +65,13 @@ Software Engineer
 </p>
 <br>
 
-
-## My Projects
-
-### [Snapdeal Clone](https://snapdeal-clone.netlify.app/)
-
-### [UpGrad Clone](https://gurdeep7.github.io/upgrad/html/index.html)
-
-### [IKEA Clone](https://ikea-clone-omega.vercel.app/)
-
 <br>
-
-
-
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
 
-  
-  
-  
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
@@ -121,54 +94,16 @@ Software Engineer
 
 <br>
 
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
                                                                                     
-
-
-
-
-
-
-
-
-
-
 <br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=dinu1763&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
 
 <br>
 
  <hr>
 
-
-
-
-
-
 <br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dinu1763&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
 
  <br> 
  
@@ -180,7 +115,7 @@ Software Engineer
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/dinu1763/" target="_blank">
+<a href="https://www.linkedin.com/in/dinu17633/" target="_blank">
   <img align="center" alt="Dinesh Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/DineshJosephite" target="_blank">
